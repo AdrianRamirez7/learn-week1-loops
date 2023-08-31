@@ -3,4 +3,5 @@ for (let i = 1; i <= 20; i++) {
     console.log(i)
 };
 
-//second question 
+//second question this is goint to pull main
+//this will be done from mac
