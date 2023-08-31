@@ -9,3 +9,5 @@ let string = "third merge"
 //second question this is goint to pull main
 
 let myResolve = "success"
+
+let finalCommit = "main commit";
